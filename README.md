@@ -1,14 +1,6 @@
 # Mastermind Game
 
-This project is a Python implementation of the classic Mastermind game. The game generates a secret code consisting of 4 colors, and the player's objective is to guess the code within a specific number of attempts. The game provides feedback after each attempt to assist in refining the guesses.
-
-### How to Play
-
-1. Execute the Python script using a compatible Python interpreter.
-2. The program will prompt for a username to appear on the leaderboard.
-3. Enter a combination of 4 colors by typing the first letter of each color.
-4. After each attempt, the feedback will indicate the accuracy of the guess.
-5. Keep guessing until the secret code is broken.
+A Python implementation of the classic Mastermind game. The game generates a secret code consisting of 4 colors. The player's objective is to guess the code within a specific number of attempts, provided with feedback after each attempt to assist in refining the guesses.
 
 ### Features
 
