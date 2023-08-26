@@ -4,8 +4,8 @@ A Python implementation of the classic Mastermind game. The game generates a sec
 
 ### Features
 
-- The secret code is randomly generated for each game.
-- Feedback on each attempt specifies the number of correct colors in the right and wrong positions.
+- A secret code is randomly generated for each game.
 - The interface is designed for easy user interaction.
+- Feedback on each attempt specifies the number of correct colors in the right and wrong positions.
 - A leaderboard keeps track of attempts made by players to solve the code.
 - The game can be replayed to enjoy the challenge again.
